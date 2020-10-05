@@ -14,7 +14,7 @@ I hybrid the project with smart energy meter.
 IoT based Smart  Energy Meter using Arduino:-
  Electricity as an important invention without which life on Earth is impossible. So obviously there is a need for measuring the consumed electricity.  Accomplished by the wattmeter, but a person from TNEB has to visit each customer’s house for measuring the power consumption and for calculating the bill amount of customers. So it requires much manual work and consumes time. We have intended to construct an IoT based energy meter to each customer of TNEB. So the proposed energy meter measures the amount of power consumed and uploads it to Thingspeak cloud the concerned person can view the reading. The power reading is sent to the cloud using ESP 8266, a Wi-Fi module. The power reading from digital wattmeter is read using the opt coupler and transmitted digitally to the Arduino. So it automates the process of measuring the power consumption at homes using IoT and thereby enabling remote access and digitalization for each customer of TNEB.
 
-HARDWARE:- Arduino UNO, Signal Condition Board, Power Transformer, Load, Nodemcu ESP8266, LCD 16x2, Current Transformer
+HARDWARE:- Arduino UNO, Signal Condition Board, Power Transformer, Load, Nodemcu ESP8266, LCD 16x2, Current Transformer; 
 Software:- Arduino IDE, Orcad Design, Android App
 
 Due to Lockdown I not able to work properly on Hardware portion.
