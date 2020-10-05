@@ -1,8 +1,8 @@
 # Smart-Energy-Grid
-Team Name:- Diva Code
-Team Member Name:- Sanskriti Sharma
-No. of Team members:- 1
-Team member mail ID:- sanskritisharma751@gmail.com
+Team Name:- Diva Code;
+Team Member Name:- Sanskriti Sharma;
+No. of Team members:- 1;
+Team member mail ID:- sanskritisharma751@gmail.com;
 Project Topic:- Smart Energy Grid
 
 Project Idea:-Energy generation companies supply electricity to all the households via intermediate controlled power transmission hubs known as Electricity Grid. Sometimes problems arise due to failure of the electricity grid leading to black out of an entire area which was getting supply from that particular grid. This project aims to solve this problem using IOT as the means of communication and also tackling various other issues which a smart system can deal with to avoid unnecessary losses to the Energy producers.
