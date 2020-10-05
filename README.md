@@ -18,7 +18,11 @@ HARDWARE:- Arduino UNO, Signal Condition Board, Power Transformer, Load, Nodemcu
 Software:- Arduino IDE, Orcad Design, Android App
 
 Due to Lockdown I not able to work properly on Hardware portion.
-                                                 --------------END----------------
+                                                 
+                                                 
+                                                 
+                                                 
+                                                              --------------END----------------
 
 
 
