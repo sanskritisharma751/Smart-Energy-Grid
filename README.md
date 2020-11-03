@@ -1,7 +1,7 @@
 # Smart-Energy-Grid
 Team Name:- Diva Code;
-Team Member Name:- Sanskriti Sharma;
-No. of Team members:- 1;
+Team Member Name:- Sanskriti Sharma, Shrishti Singh
+No. of Team members:- 2;
 Team member mail ID:- sanskritisharma751@gmail.com;
 Project Topic:- Smart Energy Grid
 
